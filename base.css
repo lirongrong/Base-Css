@@ -31,3 +31,11 @@ input{ outline: none;}
 .tr{ text-align: right;}
 .pr{ position: relative;}
 .pa{ position: absolute;}
+
+
+/*common*/
+.btn_default{ padding:5px 10px; border-radius: 4px; border:1px solid #f5f5f5;}
+
+/*ui*/
+.rr_toast{ width: 100px; padding:10px; border-radius: 5px; background: rgba(0, 0, 0, 0.5); color: #fff; position: fixed; left: 50%; top:100px;
+    margin-left: -50px; text-align: center; font-size: 12px; z-index: 10000;}
